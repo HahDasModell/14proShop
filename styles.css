@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+.app{
+    margin: -8px -8px 0px -8px
+}
+.nav-bar{
+    display: flex;
+    font-family: 'Great Vibes', cursive;
+    height: 100px;
+    background: black;
+    color: white;
+    font-size: 75px;
+    font-weight: 600;
+}
+.one{
+    margin: 0px 0px 0px 250px;
+}
+.one2{
+    height: 65px;
+    margin: 15px 0px 0px 700px;
+}
+.one3{
+    height: 45px;
+    margin: 22px 0px 0px 20px;
+}
+.two{
+    height: 350px;
+    margin: 20px 0px 0px 315px;
+}
+.header{
+    height: 420px;
+    display: flex;
+    font-family: 'Fredoka One', cursive;
+    font-size: 24px;
+    font-weight: 600;
+}
+.two2{
+    margin: 25px 0px 0px 315px;
+    display: flex;
+}
+.q1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #282828, #736F6C);
+    margin: 50px 0px 0px -205px;
+    border: 2px solid gray;
+    box-shadow: 10 10 10 10;
+}
+.q2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #D9DADD, #FAFAFA);
+    margin: 50px 0px 0px 15px;
+    border: 2px solid gray;
+}
+.q3{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #988CA1, #3B3443);
+    margin: 50px 0px 0px 15px;
+    border: 2px solid gray;
+}
+.q4{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #F2E6C8, #FEDD5D);
+    margin: 50px 0px 0px 15px;
+    border: 2px solid gray;
+}
+.two3{
+    margin: 100px 0px 0px -150px;
+    display: flex;
+}
+.w1{
+    border: 3px solid black;
+    height: 40px;
+    width: 80px;
+    margin: 50px 0px 0px -225px;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+.w2{
+    border: 3px solid black;
+    height: 40px;
+    width: 80px;
+    margin: 50px 0px 0px 15px;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+.w3{
+    border: 3px solid black;
+    height: 40px;
+    width: 80px;
+    margin: 50px 0px 0px 15px;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+.w4{
+    border: 3px solid black;
+    height: 40px;
+    width: 80px;
+    margin: 50px 0px 0px 15px;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+.two4{
+    margin: 210px 0px 0px -240px;
+    display: flex;
+}
+.e1{
+    font-family: 'Luckiest Guy', cursive;
+    margin: 50px 0px 0px -170px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 80px;
+}
+.e2{
+    font-family: 'Luckiest Guy', cursive;
+    margin: 50px 0px 0px 15px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 120px;
+}
+.e3{
+    font-family: 'Luckiest Guy', cursive;
+    margin: 50px 0px 0px 15px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 80px;
+}
+.three{
+    display: flex;
+    font-family: 'Fredoka One', cursive;
+    font-size: 24px;
+    font-weight: 600;
+}
+.r0{
+    margin: 0px 0px 0px 350px;
+}
+.r01{
+    margin: 0px 0px 0px 10px;
+    /* border: 1px solid red; */
+    height: 40px;
+    width: 90px;
+    line-height: 40px;
+    font-weight: 400;
+}
+.r02{
+    margin: 0px 0px 0px 0px;
+    /* border: 1px solid red; */
+    height: 40px;
+
+    
+}
+.r1{
+    margin: 0px 0px 0px 265px;
+    border: 3px solid black;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+.r2{
+    margin: 0px 0px 0px 30px;
+    border: 3px solid black;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
